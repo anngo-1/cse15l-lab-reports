@@ -7,7 +7,7 @@ There are three main commands we learned.
 
 cd allows you to change into a directory, or into a file.
 
-USAGE:
+USAGE:  
 No arguments (work dir lecture1): ```cd``` 
 ```
 [user@sahara ~/lecture1]$ cd
@@ -35,7 +35,7 @@ cd with a path to a file with return an error, because the path is not a directo
 
 ls can be thought of as a command to list the files in the current directory. If given a path to a file, it will just show the name path you inputted. 
 
-USAGE:
+USAGE:  
 No arguments (work dir root): ```ls```
 ```
 [user@sahara ~]$ ls 
@@ -65,7 +65,7 @@ There are no files or directories inside of lecture1/Hello.java, Hello.java is a
 
 cat is a command to print out file contents into the terminal.
 
-USAGE:
+USAGE:  
 No arguments (work dir root): ```cat```
 ```
 [user@sahara ~]$ cat
