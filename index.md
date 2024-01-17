@@ -3,7 +3,7 @@
 In week 1, we learned about file systems, github, and some commands to navigate file systems.
 
 There are three main commands we learned.  
-1. ```cd```
+1.  ```cd```
 
 cd allows you to change into a directory, or into a file.
 
@@ -31,7 +31,7 @@ cd with a path to a file with return an error, because the path is not a directo
 
 
 
-2. ```ls```
+2.  ```ls```
 
 ls can be thought of as a command to list the files in the current directory. If given a path to a file, it will just show the name path you inputted. 
 
@@ -61,7 +61,7 @@ There are no files or directories inside of lecture1/Hello.java, Hello.java is a
 
 
 
-3. ```cat```
+3.  ```cat```
 
 cat is a command to print out file contents into the terminal.
 
