@@ -87,15 +87,15 @@ Another screenshot of add message, with the path `/add-message?s=hi!&user=dog`. 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/1d7606ca-67ad-463a-a377-a34fb336a388)
 
 ## Part 2
-1. ```ls``` with absolute path to private key (on local machine)
+1.  ```ls``` with absolute path to private key (on local machine)
    
 ![Screenshot from 2024-04-16 14-48-36](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/e58416ff-9ecf-424a-aa52-927dec16cbd6)
 
-2. ```ls``` with absolute path to public key (on ieng6)
+2.  ```ls``` with absolute path to public key (on ieng6)
 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/14ec2175-c868-4d36-a94b-5896006a8b4f)
 
-3. `ssh` into ieng6 without being asked for a password
+3.  `ssh` into ieng6 without being asked for a password
 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/e869a7b4-07ba-46bd-bd64-d8103130e0c1)
 
