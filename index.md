@@ -5,7 +5,7 @@ In week 1, we learned about file systems, github, and some commands to navigate 
 There are three main commands we learned.  
 1.  ```cd```
 
-```cd``` allows you to change into a directoy.
+```cd``` allows you to change into a directory.
 
 USAGE:  
 No arguments (working dir: ```/home/an/Classes/CSE15L/lecture1```): ```cd``` 
