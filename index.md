@@ -75,7 +75,7 @@ Add message functionality, with the path ```/add-message?s=I%20how%20good&user=h
 - The method being called in the code is handleRequest. 
 - The relevant argument is only the URL, which will change depending on what kind of message we want to add to our chat server. The value for the url in this case is `http://localhost:4003//add-message?s=I%20how%20good&user=hello2`
 -  This code will add the formatted message, `hello2: I how good` into an String ArrayList, which is then returned as a response after some formatting with a StringBuilder. The ArrayList before is `[hello1: I dasdas good]`, the ArrayList after running this path is `[hello1: I dasdas good, hello2: I how good]`
--  
+  
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/137ccf79-fe74-4188-8ef9-98a673e3a58a)
 
 ### Add Message Example 2
