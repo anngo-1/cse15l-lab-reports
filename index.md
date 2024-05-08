@@ -3,7 +3,8 @@
 The bug we are use is in the first method, "reverseInPlace". The expected function of this code is to reverse an array in place.
 
 Buggy Program:
-```  // Changes the input array to be in reversed order
+```
+// Changes the input array to be in reversed order
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
       arr[i] = arr[arr.length - i - 1];
