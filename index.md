@@ -26,7 +26,7 @@ Step 7. `ls <enter> vim ListExamples.java <enter> <down><down><down><down><down>
 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/8996144a-3a49-4fb8-940e-68e26ca8fb74)
 
-I modified the code using vim to remove the error right under the comment, navigating with down arrows and right arrows to change index1 to index2.
+I modified the code using vim to remove the error right under the comment, navigating with down arrows and right arrows to change index1 to index2. Then, I saved the file using `:wq`
 
 Step 8. `<up><up><up><up><up><up> <enter> <up><up><up><up><up> <enter>`
 
