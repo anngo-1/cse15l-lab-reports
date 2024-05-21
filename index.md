@@ -6,14 +6,13 @@ Step 4. `ssh dn007@ieng6.ucsd.edu`
 
 I sshed into my ieng6 remote server from scratch.
 
-
 Step 5. `git clone git@github.com:anngo-1/lab7.git`
 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/b8aea982-92f7-4b77-bea9-8d2ef828ea71)
 
 I cloned the lab 7 repository using the ssh address. 
 
-Step 6. `ls `<enter>` cd lab7 `<enter>` CTRL+C CTRL+SHIFT+V `<enter>` CTRL+C CTRL+SHIFT+V `<backspace>``<backspace>``<backspace>` ListExamplesTests
+Step 6. `ls <enter> cd lab7 <enter> CTRL+C CTRL+SHIFT+V <enter> CTRL+C CTRL+SHIFT+V <backspace><backspace><backspace> ListExamplesTests
 <enter>`
 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/c1a06533-caba-4cab-90ed-29e22341c85c)
