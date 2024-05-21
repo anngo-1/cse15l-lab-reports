@@ -18,6 +18,7 @@ Step 6. `ls <enter> cd lab7 <enter> CTRL+C CTRL+SHIFT+V <enter> CTRL+C CTRL+SHIF
 <enter>`
 
 
+
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/c1a06533-caba-4cab-90ed-29e22341c85c)
 
 I changed directory into lab 7, then copied a command from the lab 7 activity, pasted it with CTRL+SHIFT+V into my terminal to compile the code. Then, I copied another command to run the code, pasted it into my terminal, then changed it to run the ListExamplesTests JUnit file.
