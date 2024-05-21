@@ -14,9 +14,7 @@ Step 5. `git clone git@github.com:anngo-1/lab7.git`
 
 I cloned the lab 7 repository using the ssh address. 
 
-Step 6. `ls <enter> cd lab7 <enter> CTRL+C CTRL+SHIFT+V <enter> CTRL+C CTRL+SHIFT+V <backspace><backspace><backspace> ListExamplesTests
-<enter>`
-
+Step 6. `ls <enter> cd lab7 <enter> CTRL+C CTRL+SHIFT+V <enter> CTRL+C CTRL+SHIFT+V <backspace><backspace><backspace> ListExamplesTests <enter>`
 
 
 ![image](https://github.com/anngo-1/cse15l-lab-reports/assets/75955073/c1a06533-caba-4cab-90ed-29e22341c85c)
